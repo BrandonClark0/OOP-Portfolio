@@ -1,5 +1,5 @@
 
-
+// Task 1
 public class class1 {
 
 	public static void main(String[] args) {
@@ -13,6 +13,7 @@ System.out.println("Number: 07487252336");
 
 }
 
+// Task 2
 public class Diamond {
 
 	public static void main(String[] args) {
